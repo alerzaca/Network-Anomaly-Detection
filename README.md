@@ -11,10 +11,11 @@ The datasets used for this project include publicly available network traffic da
 ## Models
 The project includes implementations of several machine learning algorithms:
 - Random Forest
-- Support Vector Machine (SVM)
-- Neural Network
-- K-Nearest Neighbors (KNN)
+- Isolation Forest
 - Logistic Regression
+- K-Nearest Neighbors (KNN)
+- Support Vector Machine (SVM)
+- Neural Networks (Autoencoder, Multilayer Perceptron)
 
 ## Acknowledgements
 Original project developed by:
