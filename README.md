@@ -6,7 +6,7 @@ Originally developed as a group project for the university course "Wykrywanie An
 
 The datasets used for this project include publicly available network traffic data, such as:
 - [CIC-IDS2017](https://www.unb.ca/cic/datasets/ids-2017.html)
-- [CSE-CIC-IDS2018](https://www.unb.ca/cic/datasets/ids-2018.html)
+- [CSE-CIC-IDS2018](https://www.unb.ca/cic/datasets/ids-2018.html) (downloaded from [here](https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv?resource=download))
 
 ## Models
 The project includes implementations of several machine learning algorithms:
