@@ -4,18 +4,19 @@ Originally developed as a group project for the university course "Wykrywanie An
 
 ## Datasets
 
-The datasets used for this project include publicly available network traffic data, such as:
-- [CIC-IDS2017](https://www.unb.ca/cic/datasets/ids-2017.html)
-- [CSE-CIC-IDS2018](https://www.unb.ca/cic/datasets/ids-2018.html) (downloaded from [here](https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv?resource=download))
+The dataset used for this project is the publicly available [CIC-IDS2017](https://www.unb.ca/cic/datasets/ids-2017.html) network traffic dataset. Alternatively, the [CSE-CIC-IDS2018](https://www.unb.ca/cic/datasets/ids-2018.html) can also be used, preprocessing this dataset together requires more than 30 GB of RAM.
 
 ## Models
 The project includes implementations of several machine learning algorithms:
-- Random Forest
+- Random Forest (also used for Feature Selection)
 - Isolation Forest
 - Logistic Regression
 - K-Nearest Neighbors (KNN)
+- K-Means
+- Naive Bayes
 - Support Vector Machine (SVM)
 - Neural Networks (Autoencoder, Multilayer Perceptron)
+
 
 ## Acknowledgements
 Original project developed by:
