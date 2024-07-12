@@ -1,12 +1,5 @@
 numpy
 pandas
 matplotlib
-seaborn
-jax
-jaxlib
-fastai
-pyarrow
-tensorflow
 scikit-learn
-keras
-keras-tuner
+fastai
