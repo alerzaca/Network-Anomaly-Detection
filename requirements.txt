@@ -6,3 +6,4 @@ scikit-learn
 fastai
 tensorflow
 pyarrow
+jax
